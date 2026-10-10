@@ -117,3 +117,9 @@ def find_greatest(num1, num2):
 
 result = find_greatest(10, 20)
 print("The greatest number is:", result)
+
+# 09. Write a program to create an integer array and find its largest element
+
+arr = [10, 5, 8, 20, 15]
+largest = max(arr)
+print("The largest element: ", largest)
