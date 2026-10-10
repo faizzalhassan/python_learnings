@@ -105,7 +105,7 @@ elif month == 12:
 else:
     print("Invalid month number.")
 
-# 10. Write a function to find the greatest of two numbers.
+# 8. Write a function to find the greatest of two numbers.
 
 def find_greatest(num1, num2):
     if num1 > num2:
