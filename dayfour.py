@@ -123,3 +123,30 @@ print("The greatest number is:", result)
 arr = [10, 5, 8, 20, 15]
 largest = max(arr)
 print("The largest element: ", largest)
+
+# 10. Write a program to find the maximum, minimum, and sum of numbers in a list
+numbers = [49,32,56,78,65,31,75]
+
+maximum = max(numbers)
+minimum = min(numbers)
+sumofnumbers = sum(numbers)
+
+print("Maximum:", maximum)
+print("Minimum:", minimum)
+print("Sum:", sumofnumbers)
+
+
+# 11. Write separate functions to perform addition, subtraction, and multiplication.
+
+def addition(a,b):
+    return a + b
+
+def subtraction(a,b):
+    return a - b
+
+def multiplication(a,b):
+    return a * b
+
+print("Addition:",addition(10,5))
+print("Subtraction:",subtraction(10,5))
+print("Multiplication:",multiplication(10,5))
