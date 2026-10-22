@@ -1,0 +1,31 @@
+student_id,name,age,gender,city,degree_program,cgpa,python_score,pandas_score,statistics_score,monthly_stipend_pkr,enrollment_date
+1001,Ayesha Khan,21,Female,Karachi,Computer Science,3.72,88,92,85,,1/12/2026
+1002,Hamza Ali,,Male,Lahore,Software Engineering,3.41,76,81,79,950,1/14/2026
+1003,Sara Ahmed,20,Female,Islamabad,Data Science,3.89,,96,91,1500,
+1004,Bilal Hussain,22,Male,Karachi,Computer Science,2.95,68,\,,800,1/20/2026
+1005,Maham Raza,24,Female,Peshawar,Information Technology,3.58,84,87,82,1100,1/22/2026
+1006,Usman Tariq,,Male,Quetta,Software Engineering,,,,69,700,1/25/2026
+1007,Zainab Noor,22,Female,,Data Science,3.95,97,98,95,1800,
+1008,Danish Iqbal,25,Male,Karachi,Computer Science,3.26,79,77,83,,2/3/2026
+1009,Hira Malik,,,Islamabad,Information Technology,3.66,,90,88,1250,2/5/2026
+1010,Ahmed Raza,23,Male,,,,62,,68,600,2/8/2026
+1011,Laiba Sheikh,21,Female,Lahore,Computer Science,3.81,93,91,,1600,2/11/2026
+1012,Farhan Shah,24,Male,Peshawar,Data Science,3.47,81,85,80,1050,
+1013,Iqra Javed,22,Female,Karachi,Information Technology,,74,78,,900,2/17/2026
+1014,Sameer Khan,,Male,Islamabad,,3.09,,,75,850,2/20/2026
+1015,Noor Fatima,,,,Data Science,3.92,96,94,97,,
+1016,Talha Asif,22,Male,Karachi,Software Engineering,3.35,78,82,76,980,3/1/2026
+1017,Mehwish Akram,23,Female,Multan,Computer Science,3.61,87,89,86,1300,3/4/2026
+1018,Rehan Siddiqui,,Male,,Information Technology,2.88,,,64,650,3/7/2026
+1019,Anaya Malik,20,Female,Islamabad,Data Science,,91,93,90,1450,3/10/2026
+1020,Omar Farooq,24,Male,Lahore,Software Engineering,3.18,73,75,,880,3/13/2026
+1021,Kiran Abbas,,Female,Karachi,,3.49,83,86,81,1150,
+1022,Saad Mahmood,23,Male,,Data Science,3.07,69,,68,750,3/19/2026
+1023,Alina Qureshi,21,Female,Multan,Information Technology,3.84,92,95,89,1550,3/22/2026
+1024,Waleed Akhtar,25,,Karachi,Software Engineering,,85,84,87,1180,3/25/2026
+1025,Sana Yousuf,,Female,,Computer Science,3.68,90,,93,1400,
+1026,Imran Bashir,27,Male,Quetta,,2.65,58,61,60,500,4/2/2026
+1027,Eman Khalid,,Female,Islamabad,Data Science,3.86,95,97,92,1650,4/5/2026
+1028,Shahzaib Mir,24,Male,Multan,Software Engineering,3.29,77,79,74,920,4/8/2026
+1029,Maryam Aslam,21,Female,Karachi,Computer Science,3.73,89,92,90,1350,4/11/2026
+1030,Abdullah Nadeem,,Male,Lahore,Information Technology,3.01,67,70,66,720,4/14/2026
